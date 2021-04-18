@@ -9,3 +9,8 @@ Dataset used is <ins>KITTI dataset</ins>: https://www.tensorflow.org/datasets/ca
 The model takes roughly around 50~60 minutes (may vary as per the environment and available resources) to fit on Google Colaboratory notebook running GPU instance.
 
 Model Checkpoints can be added if desired. 
+
+
+---
+
+In case the notebook preview doesn't load, try: https://nbviewer.jupyter.org/github/nishavak/object-detection/blob/main/object%20detection%20using%20tensorflow.ipynb
